@@ -1,0 +1,21 @@
+{
+  "name": "surveyapp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leaflet",
+    "JS"
+  ],
+  "author": "sakda.homhuan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.7.3"
+  }
+}
